@@ -1,0 +1,19 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "description": "Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sample",
+    "node",
+    "ubuntu",
+    "wen",
+    "API",
+    "REST"
+  ],
+  "author": "Priesh Patel",
+  "license": "ISC"
+}
